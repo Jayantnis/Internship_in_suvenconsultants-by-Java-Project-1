@@ -1,4 +1,4 @@
-package LoanAssistant;  /************ :: SUVAN  INTERNSHIP  BY JAVA Project  1  submitted :: ************/
+package LoanAssistant;  /************ :: SUVAN  INTERNSHIP  BY JAVA Project  1  submitted By JAYANT NISHAD :: ************/
 
 import javax.swing.*;
 import java.awt.*;
